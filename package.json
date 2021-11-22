@@ -1,0 +1,19 @@
+{
+  "name": "amazon_price_tracker",
+  "version": "1.0.0",
+  "description": "A website which will track amazon prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraceMatson/Amazon_Price_Track_Website.git"
+  },
+  "author": "Grace Matson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraceMatson/Amazon_Price_Track_Website/issues"
+  },
+  "homepage": "https://github.com/GraceMatson/Amazon_Price_Track_Website#readme"
+}
